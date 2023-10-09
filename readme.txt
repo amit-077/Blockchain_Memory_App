@@ -1,0 +1,1 @@
+Use npm install before opening project, because, I have deleted node_modules bcoz I wanted to upload this repo on github
